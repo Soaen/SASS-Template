@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Username/Repo-Name">
+  <a href="https://github.com/Soaen/SASS-Template">
     <img src="imgs/logo.png" alt="Logo" width="160" height="80">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
     Template SASS
     <br />
-    <a href="https://github.com/Username/Repo-Name"><strong>Explorer la documentation »</strong></a>
+    <a href="https://github.com/Soaen/SASS-Template"><strong>Explorer la documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Username/Repo-Name">Voir une Démo</a>
+    <a href="https://github.com/Soaen/SASS-Template">Voir une Démo</a>
     ·
-    <a href="https://github.com/Username/Repo-Name/issues">Report Bug</a>
+    <a href="https://github.com/Soaen/SASS-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Username/Repo-Name/issues">Request Feature</a>
+    <a href="https://github.com/Soaen/SASS-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -94,7 +94,7 @@ Template personnel d'une architecture SASS
 
 1. Clonez le repo
    ```sh
-   git clone https://github.com/Username/Repo-Name.git
+   git clone https://github.com/Soaen/SASS-Template.git
    ```
 
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
@@ -148,14 +148,14 @@ Sylvain - [Soaen](https://github.com/Soaen)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Username/Repo-Name.svg?style=for-the-badge
-[contributors-url]: https://github.com/Username/Repo-Name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Username/Repo-Name.svg?style=for-the-badge
-[forks-url]: https://github.com/Username/Repo-Name/network/members
-[stars-shield]: https://img.shields.io/github/stars/Username/Repo-Name.svg?style=for-the-badge
-[stars-url]: https://github.com/Username/Repo-Name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Username/Repo-Name.svg?style=for-the-badge
-[issues-url]: https://github.com/Username/Repo-Name/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Soaen/SASS-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Soaen/SASS-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Soaen/SASS-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/Soaen/SASS-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/Soaen/SASS-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Soaen/SASS-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Soaen/SASS-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/Soaen/SASS-Template/issues
 [product-screenshot]: images/screenshot.png
 [html.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://html.com/
