@@ -71,16 +71,6 @@
 
 Template personnel d'une architecture SASS
 
-<h2>Desktop</h2>
-
-![image](https://user-images.githubusercontent.com/35190561/204574500-d994042f-ae17-43f3-83bb-2ddce493e466.png)
-
-
-<h2>Mobile</h2>
-
-![image](https://user-images.githubusercontent.com/35190561/204574470-f66d8e3b-9998-42b1-818b-cc133d911e2e.png)
-
-
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
 
 
