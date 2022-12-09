@@ -90,17 +90,10 @@ Template personnel d'une architecture SASS
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
 - [X] Page Accueil
-- [X] Page Détail
-- [X] Page Contact
-- [X] Page CGV
-- [X] Page RGPD
-- [X] Page Mentions Légales
-- [X] Page A Propos
 
 <p align="right">(<a href="#readme-top">Retourner en haut</a>)</p>
 
